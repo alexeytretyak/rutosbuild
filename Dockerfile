@@ -9,7 +9,7 @@ ENV group=build
 ENV UID=1000
 ENV GID=1000
 
-ENV SOURCEURL="http://wiki.teltonika.lt/gpl/RUT9XX_R_GPL_00.06.04.5.tar.gz"
+ENV SOURCEURL="https://wiki.teltonika-networks.com/gpl/TRB1_R_GPL_00.07.02.tar.gz"
 ENV LOCALBUILDDIR="/home/${user}/RUT/"
 # ENV NPROC=8
 
